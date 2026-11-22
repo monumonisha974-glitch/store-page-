@@ -4,7 +4,7 @@
 
 The Online Purchase Website is designed to provide users with a simple and convenient online shopping experience. The website is developed using HTML, CSS, JavaScript, and XML. It allows users to browse products and explore an online shopping interface.
  live demo :
-muthuanddhanustrore.netlify.app
+https://muthuanddhanustrore.netlify.app
 ## 🎯 Objective
 
 The main objective of this project is to design an online shopping website using CSS, JavaScript, and XML to understand web designing, styling, and interactive functionalities.
